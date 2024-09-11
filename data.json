@@ -1,0 +1,445 @@
+[
+     {
+       "id": "0",
+       "title": "King Nothing",
+       "artist": "Metallica",
+       "album": "Load",
+       "year": 1996,
+       "isSoldOut": true,
+       "imageUrl": "http://i.scdn.co/image/5a06711d7fc48d5e0e3f9a3274ffed3f0af1bd91"
+     },
+     {
+       "id": "1",
+       "title": "Epitaph",
+       "artist": "King Crimson",
+       "album": "In The Court Of The Crimson King",
+       "year": 1969,
+       "isSoldOut": true,
+       "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e36a62897cf3f5937bf9c16"
+     },
+     {
+       "id": "2",
+       "title": "Siyah (Esved)",
+       "artist": "Neyse",
+       "album": "Neyse",
+       "year": 2011,
+       "isSoldOut": false,
+       "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363a94f6459d13c78bda9c872"
+     },
+     {
+       "id": "3",
+       "title": "Angelica",
+       "artist": "Anathema",
+       "album": "Eternity",
+       "year": 1996,
+       "isSoldOut": true,
+       "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c62df3fa967ac4382b54147"
+     },
+     {
+       "id": "4",
+       "title": "Living in the Shadows",
+       "artist": "Matthew Perryman Jones",
+       "album": "(Single)",
+       "year": 2016,
+       "isSoldOut": false,
+       "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313f1a15c18f40a991691f3d6"
+     },
+     {
+       "id": "5",
+       "title": "Habibi",
+       "artist": "Tamino",
+       "album": "Amir",
+       "year": 2018,
+       "isSoldOut": false,
+       "imageUrl": "https://i.scdn.co/image/f17ddfa246db1b8e1f681f658be732b0779d7ea2"
+     },
+     {
+       "id": "6",
+       "title": "All Along the Watchtower",
+       "artist": "Jimi Hendrix",
+       "album": "Electric Ladyland",
+       "year": 1968,
+       "isSoldOut": true,
+       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292"
+     },
+     {
+       "id": "7",
+       "title": "Benimle Uçmak İster Misin?",
+       "artist": "Yavuz Çetin",
+       "album": "Satılık",
+       "year": 2001,
+       "isSoldOut": false,
+       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc78d57f01d3439af0cd172e"
+     },
+     {
+       "id": "8",
+       "title": "God Was Never On Your Side",
+       "artist": "Motörhead",
+       "album": "Kiss of Death",
+       "year": 2001,
+       "isSoldOut": false,
+       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae5941e5e616db0fc4dcd089"
+     },
+     {
+       "id": "9",
+       "title": "Snuff",
+       "artist": "Slipknot",
+       "album": "All Hope Is Gone",
+       "year": 2008,
+       "isSoldOut": true,
+       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273457163bec7e8e4decf8c6375"
+     },
+     {
+       "id": "10",
+       "title": "Duş",
+       "artist": "Teoman",
+       "album": "En Güzel Hikayem",
+       "year": 2004,
+       "isSoldOut": false,
+       "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732611f7e8a56c4c213bc13965"
+     },
+     {
+       "id": "11",
+       "title": "Black",
+       "artist": "Kari Kimmel",
+       "album": "Black",
+       "year": 2015,
+       "isSoldOut": true,
+       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4e0a2e01d6b19a9384cb6f1"
+     },
+     {
+       "id": "12",
+       "title": "Brother",
+       "artist": "Orphaned Land",
+       "album": "All Is One",
+       "year": 2013,
+       "isSoldOut": true,
+       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc44553f1ae3c1d22925e372"
+     },
+     {
+       "id": "13",
+       "title": "The City Holds My Heart",
+       "artist": "Ghostly Kisses",
+       "album": "(EP)",
+       "year": 2018,
+       "isSoldOut": false,
+       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fdf4e132227fa498e1688af9"
+     },
+     {
+       "id": "14",
+       "title": "Ya Hep Ya Hiç",
+       "artist": "Şebnem Ferah",
+       "album": "Od",
+       "year": 2013,
+       "isSoldOut": false,
+       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273379476dcb16633eb518e4aa4"
+     },
+     {
+      "id": "15",
+      "title": "Gece Yolcuları",
+      "artist": "Mor ve Ötesi",
+      "album": "Dünya Yalan Söylüyor",
+      "year": 2004,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f4a6208ff9ae3dd8a702982c"
+    },
+    {
+      "id": "16",
+      "title": "Wish You Were Here",
+      "artist": "Pink Floyd",
+      "album": "Wish You Were Here",
+      "year": 1975,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273594ce40c9b5c4e8f9b33bae0"
+    },
+    {
+      "id": "17",
+      "title": "Serseri Mayın",
+      "artist": "Duman",
+      "album": "Seni Kendime Sakladım",
+      "year": 2005,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0f4c21e95495a8b5e7cfba2"
+    },
+    {
+      "id": "18",
+      "title": "Creep",
+      "artist": "Radiohead",
+      "album": "Pablo Honey",
+      "year": 1993,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95"
+    },
+    {
+      "id": "19",
+      "title": "Seni Dert Etmeler",
+      "artist": "Madrigal",
+      "album": "Neogazino",
+      "year": 2015,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0b7af549b7806dfcf4877d1"
+    },
+    {
+      "id": "20",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "album": "A Night at the Opera",
+      "year": 1975,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e319baafd16e84f0408af2a0"
+    },
+    {
+      "id": "21",
+      "title": "Ateşle Oynama",
+      "artist": "Athena",
+      "album": "Holigan",
+      "year": 2002,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0e5e39d2b5c4d0d7be0a5b5"
+    },
+    {
+      "id": "22",
+      "title": "Stairway to Heaven",
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin IV",
+      "year": 1971,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd25f93f0d9b74f899348c2a"
+    },
+    {
+      "id": "23",
+      "title": "Bir Derdim Var",
+      "artist": "Mor ve Ötesi",
+      "album": "Büyük Düşler",
+      "year": 2006,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c03dde4b4d61b7b5e0c5b4f5"
+    },
+    {
+      "id": "24",
+      "title": "Nothing Else Matters",
+      "artist": "Metallica",
+      "album": "Metallica",
+      "year": 1991,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce"
+    },
+   {
+      "id": "25",
+      "title": "Seni Dert Etmeler",
+      "artist": "Madrigal",
+      "album": "Neogazino",
+      "year": 2019,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0b7af549b7806dfcf4877d1"
+    },
+    {
+      "id": "26",
+      "title": "Gece",
+      "artist": "Sezen Aksu",
+      "album": "Gülümse",
+      "year": 1991,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e319baafd16e84f0408af2a0"
+    },
+    {
+      "id": "27",
+      "title": "Yalnızlık Senfonisi",
+      "artist": "Teoman",
+      "album": "En Güzel Hikayem",
+      "year": 2004,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0e5e39d2b5c4d0d7be0a5b5"
+    },
+    {
+      "id": "28",
+      "title": "Sor",
+      "artist": "Pentagram",
+      "album": "Gündüz Gece",
+      "year": 1992,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd25f93f0d9b74f899348c2a"
+    },
+    {
+      "id": "29",
+      "title": "Hayat Böyle",
+      "artist": "Duman",
+      "album": "Seni Kendime Sakladım",
+      "year": 2005,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c03dde4b4d61b7b5e0c5b4f5"
+    },
+    {
+      "id": "30",
+      "title": "Aşk",
+      "artist": "Sertab Erener",
+      "album": "Lâ'l",
+      "year": 2001,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce"
+    },
+    {
+      "id": "31",
+      "title": "Rüya",
+      "artist": "Manga",
+      "album": "Şehr-i Hüzün",
+      "year": 2009,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0b7af549b7806dfcf4877d1"
+    },
+    {
+      "id": "32",
+      "title": "Bir Kadın Çizeceksin",
+      "artist": "Şebnem Ferah",
+      "album": "Perdeler",
+      "year": 2005,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e319baafd16e84f0408af2a0"
+    },
+    {
+      "id": "33",
+      "title": "Yine Yeni Yeniden",
+      "artist": "Mabel Matiz",
+      "album": "Maya",
+      "year": 2018,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0e5e39d2b5c4d0d7be0a5b5"
+    },
+    {
+      "id": "34",
+      "title": "Deli",
+      "artist": "Demir Demirkan",
+      "album": "Doğum",
+      "year": 2000,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd25f93f0d9b74f899348c2a"
+    },
+    {
+      "id": "35",
+      "title": "Yalnız Çiçek",
+      "artist": "Yüksek Sadakat",
+      "album": "Yüksek Sadakat",
+      "year": 2005,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c03dde4b4d61b7b5e0c5b4f5"
+    },
+    {
+      "id": "36",
+      "title": "Aşkın Mapushane",
+      "artist": "Ceza",
+      "album": "Rapstar",
+      "year": 2004,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce"
+    },
+    {
+      "id": "37",
+      "title": "Serseri Mayın",
+      "artist": "Haluk Levent",
+      "album": "Bir Gece Vakti",
+      "year": 1997,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0b7af549b7806dfcf4877d1"
+    },
+    {
+      "id": "38",
+      "title": "Ayrılık",
+      "artist": "Nil Karaibrahimgil",
+      "album": "Nil Dünyası",
+      "year": 2002,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e319baafd16e84f0408af2a0"
+    },
+    {
+      "id": "39",
+      "title": "Kalbim Tatilde",
+      "artist": "Gripin",
+      "album": "Gripin",
+      "year": 2007,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0e5e39d2b5c4d0d7be0a5b5"
+    },
+    {
+      "id": "40",
+      "title": "Haydi Gel İçelim",
+      "artist": "Pinhani",
+      "album": "Zaman Beklemez",
+      "year": 2006,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd25f93f0d9b74f899348c2a"
+    },
+    {
+      "id": "41",
+      "title": "Beni Benimle Bırak",
+      "artist": "Emre Aydın",
+      "album": "Afili Yalnızlık",
+      "year": 2008,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c03dde4b4d61b7b5e0c5b4f5"
+    },
+    {
+      "id": "42",
+      "title": "Senden Daha Güzel",
+      "artist": "Yalın",
+      "album": "Herşey Sensin",
+      "year": 2004,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce"
+    },
+    {
+      "id": "43",
+      "title": "Aşk Nereden Nereye",
+      "artist": "Sıla",
+      "album": "Yeni Ay",
+      "year": 2012,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0b7af549b7806dfcf4877d1"
+    },
+    {
+      "id": "44",
+      "title": "Aşk Dediğin",
+      "artist": "Göksel",
+      "album": "Yollar",
+      "year": 2001,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e319baafd16e84f0408af2a0"
+    },
+    {
+      "id": "45",
+      "title": "Beni Vur",
+      "artist": "Murat Boz",
+      "album": "Maximum",
+      "year": 2007,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0e5e39d2b5c4d0d7be0a5b5"
+    },
+    {
+      "id": "46",
+      "title": "Yanımda Kal",
+      "artist": "Özcan Deniz",
+      "album": "Hediye",
+      "year": 2011,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd25f93f0d9b74f899348c2a"
+    },
+    {
+      "id": "47",
+      "title": "Aşk Gitti Bizden",
+      "artist": "Kenan Doğulu",
+      "album": "Festival",
+      "year": 2006,
+      "isSoldOut": false,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c03dde4b4d61b7b5e0c5b4f5"
+    },
+    {
+      "id": "48",
+      "title": "Vazgeçtim",
+      "artist": "Mustafa Sandal",
+      "album": "Seven",
+      "year": 2003,
+      "isSoldOut": true,
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce"
+    }
+    
+   ]
+   
